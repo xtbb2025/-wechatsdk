@@ -1,7 +1,7 @@
 # -wechatsdk
 # 微信AI手机 AI手机SDK介绍 AI手机 AI销冠手机 AI员工 智能营销手机SDK 私域AI工作手机SDK
 
-
+![image](https://github.com/xtbb2025/-wechatsdk/blob/main/AI%E4%BA%91%E5%AE%A2%E6%9C%8D.png)
 AI手机，AI员工，销冠手机，销冠系统，智能营销手机SDK，私域AI工作手机SDK —— 这款SDK为您的智能手机方案提供完美的二次开发解决方案，轻松实现微信接入Gemini、DeepSeek、Gemini等大模型、实现微信自动聊天、微信营销、数据存储、AI销售、AI售后、AI军师、AISOP、AI客服运营管理等功能。适用于教育行业、大健康行业、医美行业、服务行业、微商行业、旅游行业、租赁行业等。
 
 专业AI手机SDK方案提供商
@@ -54,6 +54,7 @@ AI手机SDK功能介绍
 
 7.2素材资源库
 ### 8.AI员工管理
+![image](https://github.com/xtbb2025/-wechatsdk/blob/main/AI%E8%A7%92%E8%89%B2.png)
 8.1 AI角色管理
 
 8.2 AI知识库管理
@@ -64,7 +65,7 @@ AI手机SDK功能介绍
 
 8.5回复策略设置
 ### 9.AI员工人才市场
-
+![image](https://github.com/xtbb2025/-wechatsdk/blob/main/AI%E5%91%98%E5%B7%A5%E5%B8%82%E5%9C%BA.png)
 
 联系我们
 
