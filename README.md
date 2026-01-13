@@ -4,7 +4,9 @@
 ![image](https://github.com/xtbb2025/-wechatsdk/blob/main/AI%E4%BA%91%E5%AE%A2%E6%9C%8D.png)
 AI手机，AI员工，销冠手机，销冠系统，智能营销手机SDK，私域AI工作手机SDK —— 专为二次开发提供企业级快速接入解决方案，轻松打通ERP\CRM企业内部系统。支持本地机房本地大模型，不上云、更安全！轻松实现微信接入Gemini、DeepSeek、Gemini等大模型、实现微信自动聊天、微信营销、数据存储、AI销售、AI售后、AI军师、AISOP、AI客服运营管理等功能。适用于教育行业、大健康行业、医美行业、服务行业、微商行业、旅游行业、租赁行业等。
 
-专业AI手机SDK方案提供商
+专业AI手机SDK方案提供商、开源级企业接入AI方案服务商
+可直接使用可二开可接入crm/erp/oa内部系统
+支持本地机房本地大模型
 
 咨询演示请加微信: xtbb2025 （备注GitHub，否则不通过）
 
